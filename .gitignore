@@ -1,0 +1,9 @@
+# Runtime logs produced by publish.cmd
+logs/
+*.log
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
